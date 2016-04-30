@@ -1,6 +1,6 @@
 ## Ai\_HAT\_Motor
 
-PCB design files (EAGLE) for a Raspberry Pi (A+/B+/2/3) HAT carrying a motor
+PCB design files (EAGLE) for a Raspberry Pi A+/B+/2/3 HAT carrying a motor
 and servo driver ICs (DRV8835 and PCA9685, respectively), as well as a 4-Channel 
 ADC (ADS1115). 
 
